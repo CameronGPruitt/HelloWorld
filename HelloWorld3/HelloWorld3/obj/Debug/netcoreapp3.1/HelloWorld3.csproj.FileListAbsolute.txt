@@ -1,0 +1,11 @@
+E:\IT-242\HelloWorld3\HelloWorld3\HelloWorld3\bin\Debug\netcoreapp3.1\HelloWorld3.exe
+E:\IT-242\HelloWorld3\HelloWorld3\HelloWorld3\bin\Debug\netcoreapp3.1\HelloWorld3.deps.json
+E:\IT-242\HelloWorld3\HelloWorld3\HelloWorld3\bin\Debug\netcoreapp3.1\HelloWorld3.runtimeconfig.json
+E:\IT-242\HelloWorld3\HelloWorld3\HelloWorld3\bin\Debug\netcoreapp3.1\HelloWorld3.runtimeconfig.dev.json
+E:\IT-242\HelloWorld3\HelloWorld3\HelloWorld3\bin\Debug\netcoreapp3.1\HelloWorld3.dll
+E:\IT-242\HelloWorld3\HelloWorld3\HelloWorld3\bin\Debug\netcoreapp3.1\HelloWorld3.pdb
+E:\IT-242\HelloWorld3\HelloWorld3\HelloWorld3\obj\Debug\netcoreapp3.1\HelloWorld3.csprojAssemblyReference.cache
+E:\IT-242\HelloWorld3\HelloWorld3\HelloWorld3\obj\Debug\netcoreapp3.1\HelloWorld3.AssemblyInfoInputs.cache
+E:\IT-242\HelloWorld3\HelloWorld3\HelloWorld3\obj\Debug\netcoreapp3.1\HelloWorld3.AssemblyInfo.cs
+E:\IT-242\HelloWorld3\HelloWorld3\HelloWorld3\obj\Debug\netcoreapp3.1\HelloWorld3.dll
+E:\IT-242\HelloWorld3\HelloWorld3\HelloWorld3\obj\Debug\netcoreapp3.1\HelloWorld3.pdb
